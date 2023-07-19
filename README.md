@@ -7,3 +7,5 @@ This project required us to write a matlab code which could achieve the followin
 - Check visibility of the Satellite
 - Conflict Resolution betweeen the observable satellites
 - Export an Orchestrate.txt file to feed to the observatory
+
+![alt text]()
