@@ -8,4 +8,5 @@ This project required us to write a matlab code which could achieve the followin
 - Conflict Resolution betweeen the observable satellites
 - Export an Orchestrate.txt file to feed to the observatory
 
-![alt text]()
+![alt text](https://github.com/Nxze/Satellite-Observations/blob/main/mess.jpg)
+![alt text](https://github.com/Nxze/Satellite-Observations/blob/main/ordered.jpg)
