@@ -1,0 +1,54 @@
+AJISAI (EGS)             
+
+ 
+SL-14 R/B                
+
+ 
+SL-8 R/B                 
+
+ 
+ARIANE 40 R/B            
+
+ 
+COSMOS 2219              
+
+ 
+SL-16 R/B                
+
+ 
+SL-16 R/B                
+
+ 
+SL-16 R/B                
+
+ 
+ARIANE 40+ R/B           
+
+ 
+CZ-4B R/B                
+
+ 
+DELTA 2 R/B              
+
+ 
+SL-16 R/B                
+
+ 
+COSMOS 1833              
+
+ 
+COSMOS 2433 (720)        
+SlewToRaDec,12h7m36s -17d59m18s,
+WaitUntil,05/16/2022 23h59m55s 
+TakeImage,10 
+
+ 
+GPS BIIR-9  (PRN 21)     
+
+ 
+GPS BIIR-10 (PRN 22)     
+
+ 
+GPS BIIR-11 (PRN 19)     
+
+ 
